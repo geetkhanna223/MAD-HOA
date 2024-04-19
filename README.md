@@ -1,1 +1,1 @@
-# MAD-HOA
+# MAD-Hands on Activity
